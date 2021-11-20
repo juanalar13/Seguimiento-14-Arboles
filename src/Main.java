@@ -35,10 +35,10 @@ public class Main {
 		// Mostrando las alturas de los nodos
 		M.buscarProgramador("g").mostrarAltura();
 		M.buscarProgramador("b").mostrarAltura();
+		M.buscarProgramador("h").mostrarAltura();
 		M.buscarProgramador("a").mostrarAltura();
 		M.buscarProgramador("c").mostrarAltura();
-		M.buscarProgramador("d").mostrarAltura();
-	    M.buscarProgramador("h").mostrarAltura();
+	    M.buscarProgramador("d").mostrarAltura();
 
 	}
 
